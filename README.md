@@ -1,5 +1,4 @@
 <html>
-<head><title>CURSO DE HTML</title></head>
 <body bgcolor="aquamarine" text="sienna">
 <center><h1>BELLOS PASTELES</h1></center><br>
 <center>
