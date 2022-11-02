@@ -34,7 +34,7 @@ AQUI LES DEJO UNA PEQUEÑA GUIA DE COMO REALIZAMOS NUESTRAS DECORACIONES <br><br
  clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen align="center"></iframe>
 <br>
 <head>
-<a href="https://drive.google.com/file/d/188rzUm8VvnAyFS5n-jpg4DS7HSahI9Q9/view?usp=drivesdk"> VOLVER A LA PÁGINA INICIAL</a><br>
+<a href="https://berenisbravo.github.io/Sucrette/"> VOLVER A LA PÁGINA INICIAL</a><br>
 <br>
 </center>
 </body>
