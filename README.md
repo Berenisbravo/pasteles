@@ -7,11 +7,6 @@
 3nZnxgF3zfd_11FuKwIxA=s900-c-k-c0x00ffffff-no-rj" width=80% alt="PASTEL"><br><br>
 </center>
 <center>
-<body>
-<audio src="https://drive.google.com/file/d/18H5VbouUxQKQa4Yz45ygqwHFYxC9cGSJ/view?usp=drivesdk.mp3" controls=""></audio><br>
-<br>
-</center>
-<center>
 TENEMOS TODO TIPO DE DECORACIONES<br><br>
 Mantequilla<br><br>
 Crema Batida<br><br>
