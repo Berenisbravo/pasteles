@@ -3,8 +3,7 @@
 <body bgcolor="aquamarine" text="sienna">
 <center><h1>BELLOS PASTELES</h1></center><br>
 <center>
-<img src="https://yt3.ggpht.com/GBLykJxPEEAGso1KYuHoRRIyZvnZLCcuj44nNuFCHk_G-SM32eaPz
-3nZnxgF3zfd_11FuKwIxA=s900-c-k-c0x00ffffff-no-rj" width=80% alt="PASTEL"><br><br>
+<img src="https://i.pinimg.com/564x/ff/43/77/ff437745e8d60890a6ac2c8870a5b735.jpg" width=80% alt="PASTEL"><br><br>
 </center>
 <center>
 TENEMOS TODO TIPO DE DECORACIONES<br><br>
@@ -19,8 +18,7 @@ Rústico<br><br>
 Fantasía<br><br>
 </center>
 <center>
-<img src="https://www.wineflowers.com/blog-esp/wp-content/uploads/2021/05/entrega_de_pastel-770x
-513.jpeg" width=80% alt="PASTELES"><br><br>
+<img src="https://i.pinimg.com/originals/8f/fa/40/8ffa40ff15ebcb1f619bd67d03f2adf4.jpg" width=80% alt="PASTELES"><br><br>
 Si quiere saber más de las decoraciones ¡contactanos ya!<br><br>
 AQUI LES DEJO UNA PEQUEÑA GUIA DE COMO REALIZAMOS NUESTRAS DECORACIONES <br><br>
 <body>
